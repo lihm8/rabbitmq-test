@@ -10,10 +10,6 @@ public class HelloReceive {
 //    public void processC(String str) {
 //        System.out.println("adadaReceive:"+str);
 //        System.out.println("adadaReceive:"+str);
-//        System.out.println("adadaReceive:"+str);
-//        System.out.println("adadaReceive:"+str);
-//        System.out.println("adadaReceive:"+str);
-//        System.out.println("adadaReceive:"+str);
 //    }
 
 
