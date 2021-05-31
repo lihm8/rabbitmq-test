@@ -9,6 +9,8 @@ public class HelloReceive {
 //    @RabbitListener(queues="mm")    //监听器监听指定的Queue
 //    public void processC(String str) {
 //        System.out.println("adadaReceive:"+str);
+//        System.out.println("adadaReceive:"+str);
+//        System.out.println("adadaReceive:"+str);
 //    }
 
 
